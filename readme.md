@@ -1,6 +1,6 @@
 # Angular Routing (Pluralsight course from [Deborah Kurata](https://github.com/DeborahK/Angular-Routing))
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1 and upgraded to v9
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1
 
 ## Development server
 
